@@ -26,15 +26,22 @@ ol{
     list-style-position: inside;
 }
 
-p {
-color:darkblue
+.header {
+    text-align: center;
+    padding: 10px;
+    background-color:rgb(178, 203, 250);
+    color: #fff;
 }
 
-d{
-    color: crimson;
-    font-style: italic;
+.content {
+    padding: 20px;
+    color:rgb(18, 29, 29)
 }
-f{
-    color: darkblue;
-    font-style: italic;
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color:blanchedalmond;
+    color: black;
 }
+
