@@ -1,0 +1,40 @@
+#top{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+body{
+    background-color:rgb(177, 220, 237);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    margin: 10px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+p {
+color:darkblue
+}
+
+d{
+    color: crimson;
+    font-style: italic;
+}
+f{
+    color: darkblue;
+    font-style: italic;
+}
